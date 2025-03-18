@@ -1,0 +1,7 @@
+nome = input('Qual o seu nome?')
+print (f'Meu nome é {nome}')
+idade_input = input('Qual é a sua idade?')
+idade = int(idade_input)
+print (f'Eu tenho {idade}')
+cor = input('Qual sua cor favorita?')
+print (f'Minha cor favorita é {cor}')
