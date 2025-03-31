@@ -24,3 +24,15 @@ Este repositório tem como objetivo documentar minha jornada no aprendizado de P
 ⬜ Estruturas de repetição<br>
 ⬜ Funções e módulos<br>
 ⬜ Projetos práticos<br>
+
+<h2>🚀 Como Executar os Códigos</h2> <br> 
+
+Clone este repositório:<br>
+
+git clone https://github.com/LuisSchubert96/Python<br>
+
+Acesse a pasta do código desejado.<br>
+
+Execute o script Python:<br> 
+
+python3 nome_do_arquivo.py
