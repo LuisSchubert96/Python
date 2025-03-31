@@ -12,7 +12,7 @@ funcoes/ → Criando e utilizando funções em Python.<br>
 
 projetos/ → Pequenos projetos para aplicar o conhecimento adquirido.<br>
 
-<h2>🏁</h2> Objetivo<br>
+<h2>🏁 Objetivo</h2><br>
 
 Este repositório tem como objetivo documentar minha jornada no aprendizado de Python, compartilhar conhecimento e demonstrar minha evolução na linguagem.<br>
 
