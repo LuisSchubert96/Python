@@ -21,8 +21,8 @@ Este repositório tem como objetivo documentar minha jornada no aprendizado de P
 ✅ Manipulação de variáveis <br>
 ✅ Entrada de dados com input()<br>
 ✅ Estruturas condicionais (if/else)<br>
-⬜ Estruturas de repetição<br>
-⬜ Funções e módulos<br>
+✅ Estruturas de repetição<br>
+✅ Funções e módulos<br>
 ⬜ Projetos práticos<br>
 
 <h2>🚀 Como Executar os Códigos</h2> <br> 
